@@ -1,4 +1,3 @@
-# HW5 Recursion: Due November 19th 2017
 
 Complete the three recursive methods in the RecursionAssignment.java class. 
 
